@@ -1,0 +1,20 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Drucare Appointment",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "short_name": "DruApp",
+  "theme_color": "#f27b00",
+  "description": "",
+  "orientation": "any",
+  "background_color": "#3a1c8d",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [{
+    "src": "/assets/chrome.png",
+    "sizes": "144x144"
+  }]
+
+}
